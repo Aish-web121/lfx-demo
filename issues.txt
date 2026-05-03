@@ -1,0 +1,17 @@
+Open Issues for hiero-ledger/hiero:
+
+#131: docs: fix broken project-criteria link and improve README formatting
+#130: Create SUPPORT.md
+#129: docs: fix broken project-criteria link in README 
+#127: fix(tooling): correct github user resolution in dco script
+#125: chore: audit repo
+#120: Update links and guidelines in README.md
+#116: Broken Link - Project Criteria from README
+#89: Update community-transition.md
+#86: Create project-migration-checklist.md
+#80: ci: [2025-Q2] CI/CD Audit Story
+#26: Update hashgraph-transfer.md
+#19: Hacktoberfest 2024: Documentation for GPG signing and DCO signature
+#16: forward hiero.org/calendar to the LF calender
+#15: SUPPORT.md file
+#8: Documentation for GPG signing and DCO signature
